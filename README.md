@@ -46,7 +46,7 @@ Install required packages:```bash
 Run the JARVIS script: python jarvis.py
 
 ## 👤 Author
-Boktiar Ahmed Bappy Inspired by Tony Stark's JARVIS.
+Arithra roy Inspired by Tony Stark's JARVIS.
 
 ## 📜 License
 This project is open-source and free to use for learning purposes
